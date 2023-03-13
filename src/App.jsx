@@ -1,11 +1,10 @@
 import React from 'react'
-import Formulario from './Formulario'
-
-
+import Formulario from './components/Formulario'
 
 const App = () => {   
   return (
     <Formulario/>
+    
   )
 }
 
