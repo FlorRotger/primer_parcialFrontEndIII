@@ -69,7 +69,7 @@ const Formulario = () => {
 
           <Input
             type={"text"}
-            placeholder={`Ingresar tu comida favorita: `}
+            placeholder={`Ingresa tu comida favorita: `}
             value={comida}
             onChange={(e) => setComida(e.target.value)}
           />
